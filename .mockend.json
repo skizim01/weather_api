@@ -1,45 +1,15 @@
 {
   "current_weather":{
-"coord": {
-"lon": 28.41,
-"lat": 49.23
-},
-"weather": [
-{
-"id": 804,
-"main": "Clouds",
+"weather": {
 "description": "хмарно",
-"icon": "04d"
-}
-],
-"base": "stations",
+},
 "main": {
 "temp": 23.91,
 "feels_like": 23.92,
-"temp_min": 23.91,
-"temp_max": 23.91,
 "pressure": 1016,
-"humidity": 60,
-"sea_level": 1016,
-"grnd_level": 986
 },
-"visibility": 10000,
 "wind": {
 "speed": 4.66,
 "deg": 1,
 "gust": 6.06
-},
-"clouds": {
-"all": 93
-},
-"dt": 1659612672,
-"sys": {
-"country": "UA",
-"sunrise": 1659580929,
-"sunset": 1659634965
-},
-"timezone": 10800,
-"id": 689558,
-"name": "Vinnytsia",
-"cod": 200
 }}
