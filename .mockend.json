@@ -1,4 +1,5 @@
-"current_weather":{
+{
+  "current_weather":{
 "coord": {
 "lon": 28.41,
 "lat": 49.23
@@ -41,4 +42,4 @@
 "id": 689558,
 "name": "Vinnytsia",
 "cod": 200
-}
+}}
