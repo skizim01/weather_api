@@ -1,11 +1,43 @@
 {
-  "Current_weather":{
-      "description": {"string":[
-"хмарно", "сонячно", "дощ", "маленький дощ"
-      ]},
-      "temp": { "int": { "min": 0, "max": 30 } },
-      "feels_like": { "int": { "min": 0, "max": 30 } },
-      "pressure": { "int": { "min": 1000, "max": 1030 } },
-      "wind_speed": { "int": { "min": 0, "max": 5 } },
-      "wind_deg": { "int": { "min": 0, "max": 360 } }
-    }}
+  "Weather": {
+    "description": {
+      "string": [
+        "хмарно",
+        "сонячно",
+        "дощ",
+        "маленький дощ"
+      ]
+    },
+    "temp": {
+      "int": {
+        "min": 0,
+        "max": 30
+      }
+    },
+    "feels_like": {
+      "int": {
+        "min": 0,
+        "max": 30
+      }
+    },
+    "pressure": {
+      "int": {
+        "min": 1000,
+        "max": 1030
+      }
+    },
+    "wind_speed": {
+      "int": {
+        "min": 0,
+        "max": 5
+      }
+    },
+    "wind_deg": {
+      "int": {
+        "min": 0,
+        "max": 360
+      }
+    }
+  }
+}
+
