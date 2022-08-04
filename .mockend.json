@@ -1,16 +1,17 @@
 {
   "Current_weather":{
-"weather": {
-"description": "хмарно",
-},
-"main": {
-"temp": 23.91,
-"feels_like": 23.92,
-"pressure": 1016,
-},
-"wind": {
-"speed": 4.66,
-"deg": 1,
-"gust": 6.06
-}}
+    "weather": {
+      "description": {"string":[
+"хмарно", "сонячно", "дощ", "маленький дощ"
+      ]}
+    },
+    "main": {
+      "temp": { "int": { "min": 0, "max": 30 } },
+      "feels_like": { "int": { "min": 0, "max": 30 } },
+      "pressure": { "int": { "min": 1000, "max": 1030 } }
+    },
+    "wind": {
+      "speed": { "int": { "min": 0, "max": 5 } },
+      "deg": { "int": { "min": 0, "max": 360 } },
+    }}
 }
