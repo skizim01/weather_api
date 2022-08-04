@@ -1,5 +1,5 @@
 {
-  "Weather": {
+  "Post": {
     "description": {
       "string": [
         "хмарно",
@@ -14,7 +14,7 @@
         "max": 30
       }
     },
-    "feels_like": {
+    "feelsLike": {
       "int": {
         "min": 1,
         "max": 30
@@ -26,13 +26,13 @@
         "max": 1030
       }
     },
-    "wind_speed": {
+    "windSpeed": {
       "int": {
         "min": 1,
         "max": 5
       }
     },
-    "wind_deg": {
+    "windDeg": {
       "int": {
         "min": 1,
         "max": 360
