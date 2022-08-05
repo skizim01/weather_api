@@ -59,26 +59,23 @@
   ],
   "Current_weather": {
     "50.4333+30.5167": {
-      "time_zone": "America/New_York",
       "temp": "20",
       "feel_like": "17",
-      "precipitation": "1010",
+      "precipitation": "768",
       "wind_speed": "1.6",
       "wind_direction": "північно-західний"
     },
     "49.2328+28.481": {
-      "time_zone": "America/New_York",
       "temp": "2",
       "feel_like": "3",
-      "precipitation": "1010",
+      "precipitation": "765",
       "wind_speed": "1.9",
       "wind_direction": "північно-західний"
     },
     "46.4775+30.7326": {
-      "time_zone": "America/New_York",
       "temp": "0",
       "feel_like": "-2",
-      "precipitation": "1010",
+      "precipitation": "755",
       "wind_speed": "2",
       "wind_direction": "північно-західний"
     }
